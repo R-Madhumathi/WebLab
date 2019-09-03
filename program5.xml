@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<?xml-stylesheet type="text/css" href="/home/student/Madhumathi/style5.css" ?>
+
+		<students>
+
+			<student>
+				<usn> USN : 4VV17CS001</usn>
+				<name> NAME : Amulya</name>
+				<clg>COLLEGE : VVCE</clg>
+				<branch>BRANCH : CSE</branch>
+				<jyear>YEAR OF JOINING : 2017</jyear>
+				<email>EMAIL ID : cs001@vvce.com</email>
+			</student> 
+
+			<student>
+				<usn> USN : 4VV17IS002</usn>
+				<name> NAME : Bhavan</name>
+				<clg>COLLEGE : VVCE</clg>
+				<branch>BRANCH : ISE</branch>
+				<jyear>YEAR OF JOINING : 2017</jyear>
+				<email>EMAIL ID : is002@vvce.com</email>
+			</student> 
+
+			<student>
+				<usn> USN : 4VV17ME003</usn>
+				<name> NAME : Chanith</name>
+				<clg>COLLEGE : VVCE</clg>
+				<branch>BRANCH : ME</branch>
+				<jyear>YEAR OF JOINING : 2017</jyear>
+				<email>EMAIL ID : me003@vvce.com</email>
+			</student> 
+		</students>

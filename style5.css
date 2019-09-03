@@ -1,0 +1,29 @@
+student{
+display:block; 
+margin-top:10px; 
+color:Navy;
+}
+usn{
+display:block; 
+margin-left:10px; 
+font-size:14pt; 
+color:Red;
+}
+name{
+display:block; margin-left:20px; font-size:14pt; color:Green;
+}
+clg{
+display:block; margin-left:20px; font-size:14pt; color:Orange;
+}
+branch{
+display:block; margin-left:20px; font-size:14pt; color:Black;
+}
+jyear{
+display:block; margin-left:20px; font-size:14pt; color:Blue;
+}
+email{
+display:block; margin-left:20px; font-size:14pt; color:Brown;
+}
+students{
+max-width:30%;margin:auto;background-color: #F9E79F;
+}
